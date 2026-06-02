@@ -1,5 +1,7 @@
 # 🔍 Image Classifier
 
+(https://huggingface.co/spaces/Vidhanjain28/img_classification_gradio) (Link to access)
+
 A deep learning web app that classifies images as **Cat 🐱**, **Dog 🐶**, or **Person 🧑** — built with a custom CNN in PyTorch and served via a Gradio UI.
 
 ---
@@ -99,7 +101,7 @@ model/cnn_128_model-100.pth
 python app.py
 ```
 
-Then open [http://localhost:7860](http://localhost:7860) in your browser.
+Then open the link in your browser.
 
 ---
 
